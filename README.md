@@ -67,6 +67,12 @@ I'm enrolled in the **Internet & Web Technology Certificate** at **Langara Colle
 
 ---
 
+## Languages
+
+<img src="languages.svg" alt="Languages: English and Spanish" height="44">
+
+---
+
 ## Let's connect
 
 [![Website](https://img.shields.io/badge/Arcflow-arcflowprotocol.com-7C5CFF?style=for-the-badge)](https://arcflowprotocol.com)
