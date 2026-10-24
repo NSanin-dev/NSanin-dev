@@ -61,6 +61,7 @@ I'm enrolled in the **Internet & Web Technology Certificate** at **Langara Colle
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**NeonVault**](https://github.com/NSanin-dev/NeonVault) | Full-stack game library: JWT auth with roles, Stripe Checkout with signature-verified webhooks, and IGDB cover-art integration. | ASP.NET Core · Blazor WASM · EF Core · Stripe |
 | [**Arcflow Protocol**](https://github.com/Ludonix-ybx/Arcflow-setup-releases) | AI game-guide overlay for PC. Installers and release notes live here. | Python · AI · Electron · Computer vision |
 | [**iss_pc_rtx3050**](https://github.com/NSanin-dev/iss_pc_rtx3050) | Performance work on a PC port of a PS4 title, taking an RTX 3050 laptop from ~10 FPS to playable. | C++ · Profiling |
 
